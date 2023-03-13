@@ -5,7 +5,6 @@ With just a few clicks, you can find the nearest bin to dispose of your waste an
 
 
 ![IMG_6250](https://user-images.githubusercontent.com/51001611/224602108-94979647-0a00-45ac-82b1-272fd3b6729b.jpg)
-![IMG_6251](https://user-images.githubusercontent.com/51001611/224602175-13063cd5-afb1-44fe-94ea-5930f1212367.jpg)
 ![IMG_6254](https://user-images.githubusercontent.com/51001611/224602240-dbd01d04-12a0-4178-833a-3ceaf75a403c.jpg)
 ![IMG_6259](https://user-images.githubusercontent.com/51001611/224602265-0bfb67e5-9dd4-4929-908a-ecd9a21f0bde.jpg)
 ![IMG_6253](https://user-images.githubusercontent.com/51001611/224602568-d10d0a60-6dd2-4a60-ad9f-7ee25f111a41.jpg)
