@@ -4,8 +4,7 @@ BinFind is an innovative app that helps you locate the nearest trash bins in Tok
 
 
 _DROP SCREENSHOT HERE_
-![IMG_6250](https://user-images.githubusercontent.com/51001611/224601263-21b0137e-abb9-4650-a04e-560bb3a5f159.png)
-
+https://res.cloudinary.com/djzdj5fnx/image/upload/c_scale,w_195/v1678678145/IMG_6254_lfsz8s.png
 <br>
 App home: https://www.binfind.online/
    
