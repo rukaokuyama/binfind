@@ -1,6 +1,7 @@
 # Binfind
 
-BinFind is an innovative app that helps you locate the nearest trash bins in Tokyo. With just a few clicks, you can find the nearest bin to dispose of your waste and keep the city clean.
+BinFind is an innovative app that helps you locate the nearest trash bins in Tokyo. 
+With just a few clicks, you can find the nearest bin to dispose of your waste and keep the city clean.
 
 
 ![IMG_6250](https://user-images.githubusercontent.com/51001611/224602108-94979647-0a00-45ac-82b1-272fd3b6729b.jpg)
